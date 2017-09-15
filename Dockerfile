@@ -1,9 +1,6 @@
 ############################################
 # Dockerfile to build Sample Application
 # For AWS ECS Service
-# This Sample Application will be used to function as a placeholder for my final Queue Processor that I am working on.
-# Right now, I am just basically giving Kyle shit by displaying this.
-# He is such a dumbass.
 ############################################
 
 # Set base image to python
